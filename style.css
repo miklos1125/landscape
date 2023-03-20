@@ -6,6 +6,7 @@ body{
 }
 
 .picadilly{
+	margin: 10px;
 	text-align: center;
 	background-color: black;
 	max-width: 600px;
@@ -17,7 +18,7 @@ body{
       
 #pic{
 	width: 80%;
-	padding-top: max(2%);
+	padding-top: max(5%);
 }
 
 p{
@@ -27,11 +28,21 @@ p{
 
 h1{
         font-size: 62px;
-	padding-bottom: 62px;
+	padding-bottom: 32px;
+	color: blue;
 }
 
 #great{ 
 	display:         flex;
   	flex-wrap:       wrap;
   	justify-content: center;
+	background-image: url("map.jpg");
+}
+
+a:link{
+	color: white;
+}
+
+a:visited{
+	color: blue;
 }

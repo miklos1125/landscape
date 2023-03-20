@@ -1,0 +1,37 @@
+body{
+	background-color: black;
+	color: white;
+	text-align: center;
+	align-items: center;
+}
+
+.picadilly{
+	text-align: center;
+	background-color: black;
+	max-width: 600px;
+	min-height: 275px;
+	max-height: 275px;
+	float: left;
+	border: 1px solid rgb(20,40,10);
+}
+      
+#pic{
+	width: 80%;
+	padding-top: max(2%);
+}
+
+p{
+	padding-top: 0px;
+	margin: 0px;
+}
+
+h1{
+        font-size: 62px;
+	padding-bottom: 62px;
+}
+
+#great{ 
+	display:         flex;
+  	flex-wrap:       wrap;
+  	justify-content: center;
+}

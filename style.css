@@ -27,19 +27,20 @@ p{
 }
 
 h1{
-        font-size: 62px;
+        font-size: 56px;
 	padding-bottom: 0px;
 	color: blue;
 }
 
 h2{
-        font-size: 44px;
+        font-size: 40px;
 	padding-bottom: 22px;
 	color: blue;
+	font-weight: 100;
 }
 
 #whiteheader{
-	font-size: 48px;
+	font-size: 44px;
 	font-weight: lighter;
 	color: snow;
 }
